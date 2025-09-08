@@ -1,5 +1,4 @@
 import sgleam/check
-import gleam/list
 import gleam/string
 
 
